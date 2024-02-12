@@ -1,9 +1,5 @@
-# CSE 6324-004 : Advance Topics in Software Engineering 
-# Professor: Dr Christoph Csallner in The University of Texas at Arlington, Spring 2023
 
-Team 8 :
-
-SAI NIKHIL KANCHUKATLA ; SAMPATH KUMAR MEDIPUDI ; FARAZ SHAIK AHMAR ; SAI KRISHNAM RAJU BHUPATHIRAJU
+ SAMPATH KUMAR MEDIPUDI
 
 
 Topic : Enhancement of slither for analyzing smart contracts 
